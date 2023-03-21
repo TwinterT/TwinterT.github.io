@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>twinter&#39;s blog</title>
+        <link>https://example.com/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.111.3 https://gohugo.io/</generator>
+        
+            <language>zh</language>
+        
+        
+            <managingEditor>1012179010@qq.com (twinter)</managingEditor>
+        
+        
+            <webMaster>1012179010@qq.com (twinter)</webMaster>
+        
+        
+        <lastBuildDate>Tue, 21 Mar 2023 11:24:44 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+    </channel>
+</rss>

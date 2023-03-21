@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title type="text">twinter&#39;s blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2023-03-21T11:24:44&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>twinter</name>
+            <uri>https://example.com/</uri>
+            
+                <email>1012179010@qq.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator>
+</feed>
